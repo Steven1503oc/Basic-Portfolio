@@ -1,0 +1,19 @@
+head {
+  background-color: lightblue;
+}
+
+body {
+  color: rgb(2, 7, 71);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: gray;
+  text-align: center;
+}
+
+image {
+  transform: rotateX(90deg);
+}

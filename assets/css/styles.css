@@ -1,0 +1,22 @@
+
+
+h1 {
+  border: 25px solid teal;
+  background-color: solid teal;
+}
+
+body {
+  color: rgb(2, 7, 71);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: gray;
+  text-align: center;
+}
+
+img {
+  transform: rotate(90deg)
+}
