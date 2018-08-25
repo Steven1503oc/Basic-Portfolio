@@ -1,22 +1,17 @@
-
-
-h1 {
-  border: 25px solid teal;
-  background-color: solid teal;
+header {
+  background-color: teal;
+  color: white;
 }
 
-body {
-  color: rgb(2, 7, 71);
-  text-align: center;
+h2 {
+  background-color: white;
+  color: teal;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
   color: gray;
-  text-align: center;
-}
-
-img {
-  transform: rotate(90deg)
+  background-color: white;
+  text-align: left;
 }
