@@ -1,6 +1,12 @@
 header {
   background-color: teal;
+  border-color: #cccccc;
   color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Menu {
+  float: right;
 }
 
 h2 {
@@ -13,5 +19,6 @@ p {
   font-size: 20px;
   color: gray;
   background-color: white;
+  border: #cccccc;
   text-align: left;
 }
